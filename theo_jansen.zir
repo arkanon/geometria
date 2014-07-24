@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaR>
+<Construction>
+<Window x="0.014086561576043266" y="-18.388122581240637" w="152.21851072034883"/>
+<Windowdim w="1107" h="933"/>
+<Preferences minfontsize="13" minpointsize="3" minlinesize="1" arrowsize="15" digits.lengths="5" digits.edit="5" digits.angles="1" colorbackground="238,232,170" fig3D="false"/>
+<CTRLslider Ename="a" x="0" y="5" w="448" h="29" showC="true" showU="false" showV="true" hidden="false" C="a=" U="°" V="50" min="49.0" max="51.0" T="1.0" fixT="false" showT="true"/>
+<CTRLslider Ename="b" x="0" y="38" w="476" h="29" showC="true" showU="false" showV="true" hidden="false" C="b=" U="°" V="61.9004" min="61.0" max="63.0" T="1.0" fixT="false" showT="true"/>
+<CTRLslider Ename="c" x="1" y="69" w="479" h="29" showC="true" showU="false" showV="true" hidden="false" C="c=" U="°" V="55.8" min="55.0" max="57.0" T="1.0" fixT="false" showT="true"/>
+<CTRLslider Ename="d" x="0" y="99" w="479" h="29" showC="true" showU="false" showV="true" hidden="false" C="d=" U="°" V="41.5183" min="41.0" max="42.0" T="1.0" fixT="false" showT="true"/>
+<CTRLslider Ename="e" x="0" y="129" w="479" h="29" showC="true" showU="false" showV="true" hidden="false" C="e=" U="°" V="39.4" min="39.0" max="40.0" T="1.0" fixT="false" showT="true"/>
+<CTRLslider Ename="f" x="537" y="5" w="481" h="29" showC="true" showU="false" showV="true" hidden="false" C="f=" U="°" V="39.9978" min="39.0" max="41.0" T="1.0" fixT="false" showT="true"/>
+<CTRLslider Ename="g" x="539" y="38" w="479" h="29" showC="true" showU="false" showV="true" hidden="false" C="g=" U="°" V="39.22906" min="38.5" max="40.0" T="1.0" fixT="false" showT="true"/>
+<CTRLslider Ename="h" x="544" y="99" w="462" h="29" showC="true" showU="false" showV="true" hidden="false" C="h=" U="°" V="65.74775" min="65.5" max="66.0" T="1.0" fixT="false" showT="true"/>
+<CTRLslider Ename="i" x="544" y="69" w="471" h="29" showC="true" showU="false" showV="true" hidden="false" C="i=" U="°" V="37.0033" min="36.5" max="37.5" T="1.0" fixT="false" showT="true"/>
+<CTRLslider Ename="j" x="544" y="129" w="467" h="29" showC="true" showU="false" showV="true" hidden="false" C="j=" U="°" V="49.17" min="48.0" max="50.0" T="1.0" fixT="false" showT="true"/>
+<Objects>
+<Point name="P1" n="13" color="2" x="0" actx="0.0" y="0" acty="0.0" shape="circle" fixed="true">Point at &quot;0&quot;, &quot;0&quot;</Point>
+<Point name="P2" n="14" color="2" x="38" actx="38.0" y="7.8" acty="7.8" shape="circle" fixed="true">Point at &quot;38&quot;, &quot;7.8&quot;</Point>
+<Expression name="a" n="118" color="1" type="thick" hidden="super" showname="true" showvalue="true" x="-36.20425677472262" y="-25.77312770768623" value="50" prompt="Value">Expression &quot;50&quot; at -36.20426, -25.77313</Expression>
+<Expression name="b" n="119" color="1" type="thick" hidden="super" showname="true" showvalue="true" x="-36.20425677472262" y="-25.77312770768623" value="61.9004" prompt="Value">Expression &quot;61.9004&quot; at -36.20426, -25.77313</Expression>
+<Expression name="c" n="120" color="1" type="thick" hidden="super" showname="true" showvalue="true" x="-36.20425677472262" y="-25.77312770768623" value="55.8" prompt="Value">Expression &quot;55.8&quot; at -36.20426, -25.77313</Expression>
+<Expression name="d" n="121" color="1" type="thick" hidden="super" showname="true" showvalue="true" x="-36.20425677472262" y="-25.77312770768623" value="41.518299999999996" prompt="Value">Expression &quot;41.518299999999996&quot; at -36.20426, -25.77313</Expression>
+<Expression name="e" n="122" color="1" type="thick" hidden="super" showname="true" showvalue="true" x="-36.20425677472262" y="-25.77312770768623" value="39.4" prompt="Value">Expression &quot;39.4&quot; at -36.20426, -25.77313</Expression>
+<Expression name="f" n="123" color="1" type="thick" hidden="super" showname="true" showvalue="true" x="-36.20425677472262" y="-25.77312770768623" value="39.9978" prompt="Value">Expression &quot;39.9978&quot; at -36.20426, -25.77313</Expression>
+<Expression name="g" n="124" color="1" type="thick" hidden="super" showname="true" showvalue="true" x="-36.20425677472262" y="-25.77312770768623" value="39.229059405940596" prompt="Value">Expression &quot;39.229059405940596&quot; at -36.20426, -25.77313</Expression>
+<Expression name="h" n="125" color="1" type="thick" hidden="super" showname="true" showvalue="true" x="-36.20425677472262" y="-25.77312770768623" value="65.74775" prompt="Value">Expression &quot;65.74775&quot; at -36.20426, -25.77313</Expression>
+<Expression name="i" n="126" color="1" type="thick" hidden="super" showname="true" showvalue="true" x="-36.20425677472262" y="-25.77312770768623" value="37.0033" prompt="Value">Expression &quot;37.0033&quot; at -36.20426, -25.77313</Expression>
+<Expression name="j" n="127" color="1" type="thick" hidden="super" showname="true" showvalue="true" x="-36.20425677472262" y="-25.77312770768623" value="49.17" prompt="Value">Expression &quot;49.17&quot; at -36.20426, -25.77313</Expression>
+<Text name="Text1" n="128" color="1" type="thick" showname="true" showvalue="true" x="-147.76413943402247" y="52.378915219468446">50
+61,9
+55,8
+41,5
+39,4</Text>
+<Circle name="c2" n="9" color="4" type="thin" hidden="true" fixed="15" midpoint="P2" acute="true">Circle around P2 with radius 31.460852679958546</Circle>
+<Circle name="c5" n="46" color="4" type="thin" hidden="true" fixed="d" midpoint="P1" acute="true">Circle around P1 with radius 34.692728679956815</Circle>
+<Circle name="c6" n="59" color="4" type="thin" hidden="true" fixed="g" midpoint="P1" acute="true">Circle around P1 with radius 16.772984489480688</Circle>
+<Circle name="c9" n="75" color="4" type="thin" hidden="true" fixed="f" midpoint="P1" acute="true">Circle around P1 with radius 20.141662081771738</Circle>
+<PointOn name="P3" alias="P" n="40" color="5" showname="true" on="c2" alpha="-1.5748034937465796" x="37.9398926565862" y="-7.199879569758811" shape="circle">Point on c2</PointOn>
+<Circle name="c4" n="43" color="4" type="thin" hidden="true" fixed="a" midpoint="P3" acute="true">Circle around P3 with radius 38.81239424515292</Circle>
+<Segment name="s4" n="49" color="1" from="P2" to="P3">Line segment from P2 to P3</Segment>
+<Circle name="c7" n="62" color="4" type="thin" hidden="true" fixed="b" midpoint="P3" acute="true">Circle around P3 with radius 13.504445856301356</Circle>
+<Intersection name="P4" n="50" color="2" first="c5" second="c4" shape="circle" which="second">Intersection between c5 and c4</Intersection>
+<Intersection name="P5" n="63" color="2" first="c6" second="c7" shape="circle" which="first">Intersection between c6 and c7</Intersection>
+<Segment name="s5" n="53" color="1" from="P3" to="P4">Line segment from P3 to P4</Segment>
+<Segment name="s6" n="56" color="1" from="P1" to="P4">Line segment from P1 to P4</Segment>
+<Segment name="s7" n="66" color="1" from="P3" to="P5">Line segment from P3 to P5</Segment>
+<Segment name="s8" n="69" color="1" from="P1" to="P5">Line segment from P1 to P5</Segment>
+<Circle name="c8" n="72" color="4" type="thin" hidden="true" fixed="c" midpoint="P4" acute="true">Circle around P4 with radius 42.56433471902168</Circle>
+<Circle name="c11" n="88" color="4" type="thin" hidden="true" fixed="i" midpoint="P5" acute="true">Circle around P5 with radius 20.88377681172977</Circle>
+<Circle name="c13" n="101" color="4" type="thin" hidden="true" fixed="j" midpoint="P5" acute="true">Circle around P5 with radius 11.789004592707274</Circle>
+<Intersection name="P6" n="78" color="2" first="c8" second="c9" shape="circle" which="first">Intersection between c8 and c9</Intersection>
+<Segment name="s9" n="79" color="1" from="P1" to="P6">Line segment from P1 to P6</Segment>
+<Segment name="s10" n="82" color="1" from="P6" to="P4">Line segment from P6 to P4</Segment>
+<Circle name="c10" n="85" color="4" type="thin" hidden="true" fixed="e" midpoint="P6" acute="true">Circle around P6 with radius 31.641833042397</Circle>
+<Intersection name="P7" n="89" color="2" first="c11" second="c10" shape="circle" which="second">Intersection between c11 and c10</Intersection>
+<Segment name="s11" n="92" color="1" from="P6" to="P7">Line segment from P6 to P7</Segment>
+<Segment name="s12" n="95" color="1" from="P7" to="P5">Line segment from P7 to P5</Segment>
+<Circle name="c12" n="98" color="4" type="thin" hidden="true" fixed="h" midpoint="P7" acute="true">Circle around P7 with radius 54.99815749456928</Circle>
+<Intersection name="P8" alias="Q" n="102" color="2" showname="true" first="c13" second="c12" shape="circle" which="second">Intersection between c13 and c12</Intersection>
+<Segment name="s13" n="105" color="1" from="P7" to="P8">Line segment from P7 to P8</Segment>
+<Segment name="s14" n="108" color="1" from="P5" to="P8">Line segment from P5 to P8</Segment>
+<Track name="Tr3" n="122" color="1" tracked="true" point="P3" on="c2" track="P8" dmin="0.0050">Track of P8 when P3 moves on c2</Track>
+<PointOn name="P9" n="123" color="2" on="Tr3" alpha="0.0" x="-22.850962952272656" y="-84.00323758366089" shape="circle">Point on Tr3</PointOn>
+<PointOn name="P10" n="124" color="2" on="Tr3" alpha="0.0" x="20.292434866127774" y="-83.87502756608606" shape="circle">Point on Tr3</PointOn>
+<Segment name="s1" n="127" color="3" from="P9" to="P10">Line segment from P9 to P10</Segment>
+</Objects>
+</Construction>
+</CaR>
