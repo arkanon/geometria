@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JNLP File for the CaRMEtal Application -->
+<jnlp
+  spec="1.4+"
+  codebase="http://dl.dropbox.com/u/8043487/CaRMetal/webstart/CaRMetal.jar"
+  href="carmetal.jnlp">
+  <information>
+    <title>CaRMetal</title>
+    <vendor>Eric Hakenholz</vendor>
+    <homepage href="http://db-maths.nuxit.net/CaRMetal/"/>
+    <description>A dynamic geometry program</description>
+    <icon href="carmetal128.png" width="128" height="128"/>
+   	<icon href="carmetal64.png" width="64" height="64"/>
+  	<icon href="carmetal32.png" width="32" height="32"/>
+    <shortcut online="true">
+    	<desktop/>
+    </shortcut>
+  </information>
+  <security>
+      <all-permissions/>
+  </security>
+  <resources>
+    <j2se version="1.2+"/>
+    <jar href="CaRMetal.jar"/>
+  </resources>
+  <application-desc main-class="Main"/>
+</jnlp>
